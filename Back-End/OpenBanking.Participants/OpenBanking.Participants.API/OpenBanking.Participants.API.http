@@ -1,0 +1,6 @@
+@OpenBanking.Participants.API_HostAddress = http://localhost:5254
+
+GET {{OpenBanking.Participants.API_HostAddress}}/api/participants/
+Accept: application/json
+
+###
